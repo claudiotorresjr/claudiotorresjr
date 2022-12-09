@@ -46,10 +46,10 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=claudiotorresjr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&show_icons=true)](https://git.io/streak-stats) [![claudiotorresjr GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiotorresjr&theme=algolia&show_icons=true)](https://github.com/claudiotorresjr/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=claudiotorresjr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![claudiotorresjr GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats)
   
 <br>
 <b>Top Langs (Taking into account only public projects)</b> <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=algolia&show_icons=true"/>
 
 <br>
