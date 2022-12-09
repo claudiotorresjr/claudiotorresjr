@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cláudio👋 target="blank"></h1>
 <h3 align="center">A master's student in Computing from Brazil</h3>
 
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://media1.tenor.com/images/21f06c2352f87fc7d6fc717e13497560/tenor.gif?itemid=13760868)" width = 50px></picture> **About me**
+## <picture><img src = "https://media1.tenor.com/images/21f06c2352f87fc7d6fc717e13497560/tenor.gif?itemid=13760868" width = 50px></picture> **About me**
 
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
