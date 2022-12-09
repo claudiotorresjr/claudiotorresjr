@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cláudio👋></h1>
 <h3 align="center">A master's student in Computing from Brazil</h3>
 
-## <picture><img src = "https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/claudiotorresjr/claudiotorresjr/blob/main/haqui.gif" width = 50px></picture> **About me**
 
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
