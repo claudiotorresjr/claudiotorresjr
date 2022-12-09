@@ -27,7 +27,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash%20-%2314354C.svg?style=for-the-badge&logo=bash&logoColor=white)
+    ![Shell script](https://img.shields.io/badge/Shell%20-%2314354C.svg?style=for-the-badge&logo=shell&logoColor=white)
     
 <br>
 
@@ -36,7 +36,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=linux&logoColor=blue)
+    ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=blue)
 
 <br>
 
