@@ -18,6 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -34,10 +35,10 @@
 
 - **Softwares and Tools**:
 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
@@ -45,6 +46,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=claudiotorresjr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![claudiotorresjr GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats) [![claudiotorresjr wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=claudiotorresjr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![claudiotorresjr GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=algolia)](https://github.com/claudiotorresjr/github-readme-stats)
 
 <br>
