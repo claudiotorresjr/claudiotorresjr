@@ -50,6 +50,6 @@
   
 <br>
 <b>Top Langs (Taking into account only public projects)</b> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=dracula&layout=compact&hide=jupyternotebook"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotorresjr&theme=dracula&layout=compact&hide=jupyter%20notebook"/>
 
 <br>
