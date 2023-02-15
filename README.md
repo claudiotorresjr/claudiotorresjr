@@ -7,13 +7,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- I'm graduated in Biomedical Informatics at UFPR
+- I have a bachelor's degree in Biomedical Informatics at Universidade Federal do Paraná (UFPR)
 
 - I'm a beginner researcher in computer security, more specifically Android Security at UFPR
 
 - Playing CTF's at spare time
 
 - Learning Android Kernel development
+
+- Breaking Android emulators while learning about Android vulnerabilities :'(
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
