@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cláudio👋</h1>
+<h1 align="center">Hi, I'm Cláudio Torres Jr👋</h1>
 <h3 align="center">A master's student in Computing from Brazil</h3>
 
 ## <picture><img src = "https://github.com/claudiotorresjr/claudiotorresjr/blob/main/haqui.gif" width = 50px></picture> **About me**
@@ -9,7 +9,7 @@
 
 - I have a bachelor's degree in Biomedical Informatics at Universidade Federal do Paraná (UFPR)
 
-- I'm a beginner researcher in computer security, more specifically Android Security at UFPR
+- I'm a beginner researcher in computer science, more specifically Android Security at UFPR
 
 - Playing CTF's at spare time
 
